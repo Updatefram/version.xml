@@ -1,2 +1,2 @@
-# version.xml
-&lt;?xml version="1.0.0"?> &lt;root> &lt;version>1.0.0&lt;/version> &lt;
+# version.txt
+1.0.0
